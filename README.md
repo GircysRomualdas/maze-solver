@@ -9,7 +9,7 @@ This is the starter code used in Boot.dev's [Build a Maze Solver in Python](http
 ## Requirements
 
 - Python 3
-- Tkinter
+- Tkinter (usually preinstalled with Python)
 
 ---
 
