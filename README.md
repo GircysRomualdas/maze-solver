@@ -31,3 +31,6 @@ sudo apt-get install python3-tk
 ```bash
 python3 main.py
 ```
+<p align="center">
+  <img width="802" height="634" alt="Screenshot from 2025-11-07 22-55-43" src="https://github.com/user-attachments/assets/6f2514f2-9823-4ba8-be92-5dbb4136ff84" />
+</p>
