@@ -26,7 +26,7 @@ sudo apt-get install python3-tk
 
 ## Usage
 
-### Run game
+### Run maze solver
 
 ```bash
 python3 main.py
