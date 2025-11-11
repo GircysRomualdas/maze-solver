@@ -15,7 +15,7 @@ This is the starter code used in Boot.dev's [Build a Maze Solver in Python](http
 
 ## Installation
 
-1. Clone the Repository
+1. Clone the repository.
 
 2. Install Tkinter manually if needed:
 ```bash
